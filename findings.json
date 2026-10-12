@@ -1,0 +1,42 @@
+{
+  "numpy_stats": {
+    "jumlah": 546,
+    "rata_rata": 8.91,
+    "minimum": 0,
+    "maksimum": 93,
+    "std": 9.07,
+    "persen_bersih": 99.63
+  },
+  "aqi_describe": {
+    "count": 546.0,
+    "mean": 8.91,
+    "std": 9.08,
+    "min": 0.0,
+    "25%": 3.0,
+    "50%": 6.0,
+    "75%": 11.0,
+    "max": 93.0
+  },
+  "rows_per_state": {
+    "California": 342,
+    "Texas": 104,
+    "Pennsylvania": 100
+  },
+  "california_rows": 342,
+  "la_mean_aqi": 13.4,
+  "ca_top_counties": {
+    "Los Angeles": 55,
+    "Santa Barbara": 26,
+    "San Bernardino": 21,
+    "Orange": 19,
+    "San Diego": 19
+  },
+  "mean_aqi_by_state": {
+    "California": 9.41,
+    "Pennsylvania": 6.69,
+    "Texas": 9.38
+  },
+  "combined_rows": 1725,
+  "concat_valid": true,
+  "washington_moderate_rows": 4
+}
